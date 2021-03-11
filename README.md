@@ -28,3 +28,4 @@ build ARGs and an ENTRYPOINT script.
 #### Blog post references
 
 - https://nickjanetakis.com/blog/why-i-prefer-running-nginx-on-my-docker-host-instead-of-in-a-container
+- https://nickjanetakis.com/blog/the-tools-i-use (every tool I used in the talk and how they're configured)
